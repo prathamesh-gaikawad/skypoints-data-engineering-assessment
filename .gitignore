@@ -1,0 +1,11 @@
+# Generated output can contain member names and dates of birth.
+output/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+
+# Local configuration and environment files
+.env
+.venv/
+venv/
